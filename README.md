@@ -126,8 +126,9 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
   
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-# Running Tutorial Projects
-To run the tutorial project:
+# Running Example Projects
+To run the example projects:
+* Make sure you have .Net Core Runtime installed on your local machine.
 * Clone the repository to your local machine.
 * Download latest release of dotNetCore4Delphi Setup and Install: https://www.crystalnet-tech.com/Products/dotNetCore4Delphi/download
 * Open the project using Embarcadero RAD Studio or Delphi XE or higher IDE versions of your choice.
